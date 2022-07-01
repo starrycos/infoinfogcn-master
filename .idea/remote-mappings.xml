@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://lxy@10.184.17.30:22/data2/lxy/anaconda3/envs/MS-G3D/bin/python3.8" />
+        <remote-mappings server-id="python@sftp://lxy@10.184.17.30:22/data2/lxy/anaconda3/envs/MS-G3D/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/data2/lxy/code/infogcn-master" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
